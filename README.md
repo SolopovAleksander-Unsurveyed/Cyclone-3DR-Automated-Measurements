@@ -1,7 +1,7 @@
 # Cyclone-3DR-Automated-Measurements
 With this script, you can extract lengths and angles, compare them with nominal values, and generate detailed reports within Leica Cyclone 3DR software. It's particularly useful in pre-fabrication applications where you need to extract measurements according to predefined standards.
 
-![Preview](3rd step angles.png)
+![Preview]("3rd step angles.png")
 
 # MeasureALL Suite - Professional Measurement Tools for Cyclone 3DR
 
@@ -50,7 +50,7 @@ Usage:
 ### 2. MeasureALL_Lengths.js - Distance Measurements
 **Precise length measurements between sphere centers with SMeasure objects**
 
-![Preview](2nd step lines.png)
+![Preview]("2nd step lines.png")
 
 #### Selection Scenarios:
 | Scenario | Description | Use Case |
