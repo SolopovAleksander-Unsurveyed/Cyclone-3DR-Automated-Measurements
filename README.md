@@ -32,7 +32,7 @@ MeasureALL is a professional measurement toolkit designed for Cyclone 3DR that a
 ### 1. MainScript.js - Central Control Hub
 **Primary interface for accessing all measurement tools**
 
-![1st](1step.png)
+![1st](Screenshots/1step.png)
 
 Features:
 - Unified control panel for all measurement operations
@@ -50,7 +50,7 @@ Usage:
 ### 2. MeasureALL_Lengths.js - Distance Measurements
 **Precise length measurements between sphere centers with SMeasure objects**
 
-![2nd](2nd_step_lines.png)
+![2nd](Screenshots/2nd_step_lines.png)
 
 #### Selection Scenarios:
 | Scenario | Description | Use Case |
@@ -69,7 +69,7 @@ Features:
 ### 3. MeasureALL_Angles.js - Angular Measurements
 **Angle measurements between existing measurement lines with visual arc creation**
 
-![3rd](3rd_step_angles.png)
+![3rd](Screenshots/3rd_step_angles.png)
 
 #### Selection Scenarios:
 | Scenario | Description | Use Case |
@@ -88,7 +88,7 @@ Features:
 ### 4. MeasureALL_Perpendic.js - Perpendicular Analysis
 **Perpendicular distance measurements from sphere centers to lines**
 
-![3rd](4th_step_Perpendiculars.png)
+![3rd](Screenshots/4th_step_Perpendiculars.png)
 
 #### Selection Scenarios:
 | Scenario | Description | Use Case |
